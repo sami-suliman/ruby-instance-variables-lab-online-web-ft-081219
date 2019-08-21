@@ -9,4 +9,3 @@ end
 
 lassie = Doc.new 
 lassie.name = "lassie
-lassie.name 
