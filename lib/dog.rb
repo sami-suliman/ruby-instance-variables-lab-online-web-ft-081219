@@ -8,4 +8,4 @@ class Dog
 end 
 
 lassie = Doc.new 
-lassie.name = ""
+lassie.name = "lassie"
